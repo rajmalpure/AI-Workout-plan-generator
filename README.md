@@ -1,4 +1,4 @@
-# 💪 AI Workout Plan Generator
+# 💪 AI -Workout Plan Generator
 
 Welcome to the **AI Workout Plan Generator** – your personal fitness trainer powered by smart algorithms! This tool generates a **12-session progressive workout plan** tailored to your goals, fitness level, and schedule. Whether you're a beginner or looking to level up, this app has you covered!
 
