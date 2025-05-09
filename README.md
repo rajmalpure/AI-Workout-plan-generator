@@ -26,7 +26,7 @@ Welcome to the **AI Workout Plan Generator** – your personal fitness trainer p
 ---
 ## 📷 Screenshots
 
-### 🔧 FastAPI 
+### 🔧 FastAPI used
 ![image](https://github.com/user-attachments/assets/5605d9c2-755b-4121-a97e-9fa9e6db5c99)
 
 ### 💻 User Interface
