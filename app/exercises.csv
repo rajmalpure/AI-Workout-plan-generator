@@ -1,0 +1,51 @@
+name,muscle_group,equipment,type,level,sets,reps
+Bodyweight Squat,legs,bodyweight,main,beginner,3.0,15
+Push-up,chest,bodyweight,main,beginner,3.0,12
+Plank,core,bodyweight,core,beginner,3.0,30 sec
+Jumping Jacks,full_body,bodyweight,warmup,all,2.0,min
+Arm Circles,shoulders,bodyweight,warmup,all,2.0,15
+Dumbbell Chest Press,chest,dumbbell,main,intermediate,3.0,10
+Resistance Band Row,back,resistance_band,main,intermediate,3.0,12
+Dumbbell Goblet Squat,legs,dumbbell,main,intermediate,3.0,10
+Chest Stretch,chest,none,cooldown,all,,30 sec each side
+Child's Pose,back,none,cooldown,all,,1 min
+Dumbbell Shoulder Press,shoulders,dumbbell,main,intermediate,3.0,10
+Mountain Climbers,core,bodyweight,warmup,all,,30 sec
+Glute Bridge,glutes,bodyweight,main,beginner,3.0,15
+Superman Hold,back,bodyweight,core,beginner,2.0,30 sec
+Bent Over Row,back,dumbbell,main,intermediate,3.0,10
+Banded Lateral Walk,legs,resistance_band,main,intermediate,3.0,12
+Standing Calf Raise,calves,bodyweight,main,beginner,3.0,20
+Side Plank,core,bodyweight,core,intermediate,2.0,30 sec each side
+Hamstring Stretch,legs,none,cooldown,all,,30 sec
+High Knees,cardio,bodyweight,warmup,all,,1 min
+Burpees,full_body,bodyweight,main,intermediate,3.0,12
+Lunges,legs,bodyweight,main,beginner,3.0,12
+Step-ups,legs,bench,main,intermediate,3.0,10
+Wall Sit,legs,bodyweight,main,beginner,2.0,30 sec
+Resistance Band Chest Fly,chest,resistance_band,main,intermediate,3.0,10
+Towel Rows,back,towel,main,beginner,3.0,12
+Isometric Hold Push-up,chest,bodyweight,main,intermediate,2.0,20 sec
+Dead Bug,core,bodyweight,core,beginner,3.0,15
+Kneeling Shoulder Taps,core,bodyweight,core,beginner,3.0,20
+Jump Squats,legs,bodyweight,main,intermediate,3.0,10
+Reverse Lunges,legs,bodyweight,main,intermediate,3.0,10
+Banded Glute Kickbacks,glutes,resistance_band,main,intermediate,3.0,15
+Inchworm Walkouts,full_body,bodyweight,warmup,all,2.0,10
+Wall Angels,shoulders,bodyweight,warmup,all,2.0,15
+Triceps Dips,triceps,bench,main,beginner,3.0,12
+Skaters,legs,bodyweight,main,intermediate,3.0,20
+Jump Rope,cardio,jump_rope,warmup,all,2.0,min
+Seated Hamstring Stretch,legs,none,cooldown,all,,30 sec
+Quad Stretch,legs,none,cooldown,all,,30 sec
+Doorway Chest Stretch,chest,none,cooldown,all,,30 sec
+Pike Push-up,shoulders,bodyweight,main,intermediate,3.0,10
+Dumbbell Lateral Raise,shoulders,dumbbell,main,intermediate,3.0,12
+Dumbbell Bicep Curl,biceps,dumbbell,main,intermediate,3.0,12
+Farmer's Carry,full_body,dumbbell,main,intermediate,3.0,30 sec
+Leg Raises,core,bodyweight,core,beginner,3.0,15
+Dumbbell Deadlift,legs,dumbbell,main,intermediate,3.0,10
+Towel Curl,biceps,towel,main,beginner,3.0,15
+Ankle Circles,ankles,none,warmup,all,2.0,20
+Wrist Rolls,wrists,none,warmup,all,2.0,20
+Bear Crawl,full_body,bodyweight,main,intermediate,2.0,30 sec
