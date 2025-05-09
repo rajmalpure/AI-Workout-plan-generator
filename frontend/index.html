@@ -144,7 +144,7 @@
       data.age = Number(data.age);
       data.days_per_week = Number(data.days_per_week);
 
-      const res = await fetch('http://localhost:8000/generate-workout', {
+      const res = await fetch('https://ai-workout-plan-generator-2.onrender.com/generate-workout', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(data)
