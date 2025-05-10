@@ -34,6 +34,6 @@ Welcome to the **AI Workout Plan Generator** – your personal fitness trainer p
 ![image](https://github.com/user-attachments/assets/22555c7c-8d8a-4662-907c-fcf661dad4c5)
 
 ### 📋 Full Workout Plan Output
-![image](https://github.com/user-attachments/assets/403fa95a-96c6-4321-896a-2bf497908e7e)
+![image](https://github.com/user-attachments/assets/d14ae3cf-4f23-4367-888d-357b72996c1d)
 
 ## Live: https://frontend-ntnyh1ahn-rajs-projects-02a1ec89.vercel.app/
