@@ -11,6 +11,7 @@ Welcome to the **AI Workout Plan Generator** – your personal fitness trainer p
 - 🧘‍♂️ Includes **warm-up**, **main workout**, **cooldown**, and **circuits**
 - 🌐 Exposed as a **public API** (ready for web or app integration)
 - ⚡ Fast and lightweight – works instantly via CLI or Web API
+- ✅ Export workout plan to PDF or JSON
 
 ---
 
@@ -30,9 +31,9 @@ Welcome to the **AI Workout Plan Generator** – your personal fitness trainer p
 ![image](https://github.com/user-attachments/assets/5605d9c2-755b-4121-a97e-9fa9e6db5c99)
 
 ### 💻 User Interface
-![image](https://github.com/user-attachments/assets/f4effd9c-8598-4974-8b07-fe7d9a789a91)
+![image](https://github.com/user-attachments/assets/22555c7c-8d8a-4662-907c-fcf661dad4c5)
 
 ### 📋 Full Workout Plan Output
-![image](https://github.com/user-attachments/assets/bd3266cc-80d6-4d7b-bffd-7c236e0fce01)
+![image](https://github.com/user-attachments/assets/403fa95a-96c6-4321-896a-2bf497908e7e)
 
 ## Live: https://frontend-ntnyh1ahn-rajs-projects-02a1ec89.vercel.app/
