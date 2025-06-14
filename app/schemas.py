@@ -18,8 +18,11 @@ class WorkoutSection(BaseModel):
 class WorkoutSession(BaseModel):
     session: int
     date: str
+    title: Optional[str]
+    focus: Optional[str]
+    intensity: Optional[str]
     sections: WorkoutSection
-
+    
 class UserProfile(BaseModel):
     name: str
     age: int
